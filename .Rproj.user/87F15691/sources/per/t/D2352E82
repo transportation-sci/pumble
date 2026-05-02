@@ -1,0 +1,26 @@
+{
+    "id": "D2352E82",
+    "path": "~/GitHub/pumble/R/scheduled.R",
+    "project_path": "R/scheduled.R",
+    "type": "r_source",
+    "hash": "1897081455",
+    "contents": "",
+    "dirty": false,
+    "created": 1775065845096.0,
+    "source_on_save": false,
+    "relative_order": 6,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "8,27",
+        "scrollLine": "1"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1775070029,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1775070029602,
+    "read_only": false,
+    "read_only_alternatives": []
+}
