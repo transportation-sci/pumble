@@ -10,8 +10,8 @@
 <img src="man/figures/logo.png" align="right" height="139" alt="" />
 
 {pumble} is an R package that uses Pumble’s API to interact with Pumble
-workspace. It can be used to send messages and get user info. to Pumble
-workspace.
+workspace. It can be used to send messages to and get user info. from
+Pumble workspace.
 
 ## Installation
 
