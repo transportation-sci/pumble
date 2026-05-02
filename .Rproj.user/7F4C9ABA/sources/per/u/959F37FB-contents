@@ -1,4 +1,0 @@
-pumble_send_message("Meeting will start at 10 AM Eastern Time. Meeting link: https://meet.jit.si/BookClubTFD", 
-                    channel_id = "69cc476be6cab5609ffbe91d", 
-                    as_bot = TRUE)
-
